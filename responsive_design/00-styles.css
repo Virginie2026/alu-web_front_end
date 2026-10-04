@@ -1,0 +1,11 @@
+/* SUMMARY
+1. GLOBAL
+2. LAYOUT
+3. SECTION
+4. CARD
+*/
+
+/*** 1. GLOBAL ***/
+html { line-height: 1.15; -webkit-text-size-adjust: 100%; }
+body { margin: 0; }
+*, *:before, *:after { box-sizing: border-box; }
